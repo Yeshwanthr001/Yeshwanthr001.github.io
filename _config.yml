@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Congratulatory Hari
 author: YR
-avatar: "/assets/img/avatar.png"
+#avatar: "/assets/img/avatar.png"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
